@@ -1,6 +1,3 @@
-
-package edu.txst.assignment2;
-
 /**
  * Represents a circle with a given radius.
  * Implements the Shape interface.
